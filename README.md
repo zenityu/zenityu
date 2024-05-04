@@ -10,7 +10,7 @@
 <p align="left"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></p>
 
 <br/>
-<img src="https://cdn.discordapp.com/attachments/1223775578067566713/1229866846736351382/IMG_20231205_173418.png?ex=66313dc2&is=661ec8c2&hm=cbae90c1f4f18136326067b368c16487cc06a7495a7e531ed50e5d81d582c83a&"/>
+<img src="https://raw.githubusercontent.com/zenityu/zenityu/main/barra-zenit.png"/>
 <br/>
 
 <p align="center">
